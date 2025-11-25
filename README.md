@@ -60,7 +60,6 @@ void loadRoutesFromFile()         // Lines 114-134
 
 **Advanced Concepts**:
 - **File I/O Operations**: `fprintf()` and `fscanf()` for data persistence
-- **Error Handling**: File opening validation (Lines 100, 117)
 - **Program State Management**: Automatic save/load functionality
 - **User Access Control**: Basic administrator/user role separation (Lines 150-200)
 
